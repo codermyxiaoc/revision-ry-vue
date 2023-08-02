@@ -30,9 +30,8 @@
 
 3.2:修改application-druid.yml 中的数据库连接 
 
-
 #### 框架包名一键修改
 
-![在这个文件夹里面](image.png)
+![](D:\RuoYi-Vue-master\G8RETTTQR1~RL$Z6WLCT`S4.png)
 
  **修改器作者联系方式：QQ 11748854** 
