@@ -32,6 +32,6 @@
 
 #### 框架包名一键修改
 
-![](D:\RuoYi-Vue-master\G8RETTTQR1~RL$Z6WLCT`S4.png)
+![](G8RETTTQR1~RL$Z6WLCT%60S4.png)G8RETTTQR1~RL$Z6WLCT`S4.png)
 
  **修改器作者联系方式：QQ 11748854** 
