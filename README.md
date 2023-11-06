@@ -31,8 +31,11 @@
 3.2:修改application-druid.yml 中的数据库连接 
 
 #### 框架包名一键修改
+
  **如需更改框架包名称，请下载zip包** 
 
-![](G8RETTTQR1~RL$Z6WLCT%60S4.png)
+![](.\main.png)
+
+
 
  **修改器作者联系方式：QQ 11748854** 
